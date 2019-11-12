@@ -29,7 +29,7 @@
 
 #include "../atomics/blinky.hpp"
 
-#include "../bloom/bloom_filter.hpp"
+#include "../bloom-filter/bloom_filter.hpp"
 
 
 #ifdef RT_ARM_MBED
