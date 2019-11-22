@@ -24,6 +24,14 @@
 #include <limits>
 #include <random>
 
+#include "../knowledge_base/knowledge_base.cpp"
+//      KnowledgeBase kb();
+//      kb.init();
+//      if( kb.faultCodeIsPresent('E16') )
+//      { then ... }
+//      kb.addFaultCode('E75')
+
+
 using namespace cadmium;
 using namespace std;
 
