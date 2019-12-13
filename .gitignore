@@ -1,6 +1,6 @@
-top_model/build_out.txt
-top_model/blinky_test_output.txt
-top_model/BLINKY_TOP
+top_model/LOGS_Out.txt
+top_model/SensorFusion.txt
+top_model/SENSOR-FUSION_TOP
 *.o
 BUILD/*
 /mbed-os/
